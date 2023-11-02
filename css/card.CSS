@@ -149,6 +149,12 @@
   line-height: 60px;
 }
 
+.back .img{
+  width: 160px;
+  height: 160px;
+  object-fit: cover;
+}
+
 .back .img img{
   width: 160px;
   height: 160px;
